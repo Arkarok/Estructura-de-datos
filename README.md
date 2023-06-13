@@ -1,6 +1,6 @@
 # Distribuidos
 
-
+![](https://img.shields.io/badge/Project%20Version-0.0.1-brightgreen)
 
 ---
 
